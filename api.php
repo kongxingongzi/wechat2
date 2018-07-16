@@ -25,5 +25,6 @@
         }
     }
 
-    $aa=new api();
-    $aa->api();
+    // $aa=new api();
+    // $aa->api();
+    echo '123';
