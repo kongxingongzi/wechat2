@@ -1,7 +1,7 @@
 <?php
 
     //获得参数 signature nonce token timestamp echostr
-   /* class api{
+    class api{
         public function api(){
             $nonce     = $_GET['nonce'];
             $token     = 'weixin';
@@ -24,7 +24,7 @@
             }
         }
     }
-*/
+
     // $aa=new api();
     // $aa->api();
-    echo '123';
+    echo '1234';

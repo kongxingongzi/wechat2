@@ -1,5 +1,5 @@
 {
-  "require": {
-    "php": "^7.1.12"
-  }
+    "require": {
+        "overtrue/wechat": "~4.0"
+    }
 }
